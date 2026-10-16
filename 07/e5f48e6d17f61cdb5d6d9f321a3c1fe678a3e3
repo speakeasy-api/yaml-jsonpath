@@ -1,0 +1,26 @@
+README.md
+  h_9630b74bdac540 3-4
+go.mod
+  h_9630b74bdac540 1
+pkg/yamlpath/example_test.go
+  h_9630b74bdac540 15
+pkg/yamlpath/fuzz/fuzz.go
+  h_9630b74bdac540 9
+pkg/yamlpath/path_test.go
+  h_9630b74bdac540 13
+test/regression_test.go
+  h_9630b74bdac540 14
+web/main.go
+  h_9630b74bdac540 17,56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "07e5f48e6d17f61cdb5d6d9f321a3c1fe678a3e3",
+  "prompts": {},
+  "humans": {
+    "h_9630b74bdac540": {
+      "author": "Tristan Cartledge <tristan@speakeasyapi.dev>"
+    }
+  }
+}
