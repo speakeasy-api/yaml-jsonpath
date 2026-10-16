@@ -1,4 +1,4 @@
-module github.com/vmware-labs/yaml-jsonpath
+module github.com/speakeasy-api/yaml-jsonpath
 
 go 1.23.0
 

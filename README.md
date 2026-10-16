@@ -1,5 +1,7 @@
 # YAML JSONPath
 
+> **Speakeasy fork.** This fork is published as `github.com/speakeasy-api/yaml-jsonpath` so `github.com/speakeasy-api/openapi` can depend on a version built on `go.yaml.in/yaml/v3` instead of the archived `gopkg.in/yaml.v3`. The only changes from upstream are that migration (proposed upstream in [vmware-labs/yaml-jsonpath#65](https://github.com/vmware-labs/yaml-jsonpath/pull/65)) and the module path rename. Once upstream releases the migration, consumers should switch back to `github.com/vmware-labs/yaml-jsonpath`.
+
 [![GoDoc](https://godoc.org/github.com/vmware-labs/yaml-jsonpath?status.svg)](https://godoc.org/github.com/vmware-labs/yaml-jsonpath)
 [![Go Report Card](https://goreportcard.com/badge/vmware-labs/yaml-jsonpath)](https://goreportcard.com/report/vmware-labs/yaml-jsonpath)
 

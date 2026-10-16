@@ -12,7 +12,7 @@ import (
 	"log"
 
 	"github.com/sergi/go-diff/diffmatchpatch"
-	"github.com/vmware-labs/yaml-jsonpath/pkg/yamlpath"
+	"github.com/speakeasy-api/yaml-jsonpath/pkg/yamlpath"
 	"go.yaml.in/yaml/v3"
 )
 
